@@ -343,7 +343,7 @@
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width:991px) {
     .header-top-content .header-left ul li, .header-top-content .header-right ul li {
-        padding-right: 2px;
+        padding-right: 0px;
     }
     .navbar-nav .nav-item {
         padding: 2px;
