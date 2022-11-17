@@ -1,3 +1,3 @@
 # bizness
 ##### Bootcamp in SafeSyntax
-#### Live link: https://rezaul-karim-pstu.github.io/bizness/
+#### Live link: https://webdevreza.github.io/bizness/
